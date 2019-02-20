@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jrmileham/express_ws.git"
+    "url": "git@github.com:jrmileham/express_ws.git"
   },
   "keywords": [
     "express",
