@@ -1,0 +1,31 @@
+{
+  "name": "express_ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node  ws-server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrmileham/express_ws.git"
+  },
+  "keywords": [
+    "express",
+    "javascript",
+    "ws",
+    "websockets"
+  ],
+  "author": "jrmileham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrmileham/express_ws/issues"
+  },
+  "homepage": "https://github.com/jrmileham/express_ws#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "ws": "^6.1.4"
+  }
+}
